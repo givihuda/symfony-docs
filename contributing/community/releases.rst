@@ -117,8 +117,8 @@ amongst the :doc:`core team </contributing/code/core_team>` and documented as
 part of the :ref:`technical requirements for running Symfony applications
 <symfony-tech-requirements>`.
 
-Throughout each Symfony release's support lifetime, all released versions of PHP
-including new major versions will be supported. In this way, the **maximum** supported
+Throughout each Symfony release's support lifetime, all versions of PHP that are supported at the time,
+including new major versions, will be compatible. In this way, the **maximum** supported
 version of PHP for a maintained Symfony release is the latest released
 one that is publicly available.
 
